@@ -1,0 +1,102 @@
+
+.Home-custom-backgroundD{
+    background-image: url('../assets/Donerview.jpeg'); /* Replace with the path to your image */
+    background-size: cover; /* Adjust to your needs */
+    background-position: center; /* Adjust to your needs */
+    /* Other background properties can be added here */
+    height: 650px;
+    display:flexbox;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position:center;
+    filter: brightness(0.9);
+    
+  }
+
+  .custom-labelD {
+    color: rgb(216, 30, 30);
+    font-weight:bolder;
+    font-size: larger;
+    
+  }
+
+  .custom-fontD{
+    font-family: 'Your Custom Font', Anton;
+
+  }
+
+  .custom-formD{
+    background-color: lightgray;
+    opacity: 0.6; 
+
+  }
+
+  /* DonerView.css */
+.table {
+    background-color: rgba(210, 126, 126, 0.5);
+    color: burlywood; /* Adjust the alpha value for transparency (0.7 = 70% transparent white) */
+  }
+
+
+
+  .form_container{
+    width: 30%;
+}
+
+@media screen and (max-width:1000px) {
+    .form_container{
+        width: 45%;
+    }
+    
+}
+
+
+@media screen and (max-width:700px) {
+    .form_container{
+        width: 65%;
+    }
+    
+}
+
+.Search{
+  border: 2px;
+  background-color: aqua;
+  color:red}
+
+
+  .search-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .search-input {
+    padding: 8px;
+    border: 1px solid #738033;
+    border-radius: 4px;
+    margin-right: 8px;
+    width: 200px;
+  }
+  
+  .search-button {
+    background-color: #007bff;
+    color: #1e8b23;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  
+  .search-button:hover {
+    background-color: #0056b3;
+  }
+
+  
+  
+  
+  
+  
+  
+
+  

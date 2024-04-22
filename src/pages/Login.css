@@ -1,0 +1,64 @@
+.form_container{
+    width: 30%;
+}
+
+@media screen and (max-width:1000px) {
+    .form_container{
+        width: 45%;
+    }
+    
+}
+
+
+@media screen and (max-width:700px) {
+    .form_container{
+        width: 65%;
+    }
+    
+}
+
+.Home-custom-background{
+    background-image: url('../assets/image4.jpg'); /* Replace with the path to your image */
+    background-size: cover; /* Adjust to your needs */
+    background-position: center; /* Adjust to your needs */
+    /* Other background properties can be added here */
+    height: 650px;
+    display:flexbox;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position:center;
+    filter: brightness(0.9);
+    
+  }
+
+  .custom-label {
+    color: rgb(54, 30, 110); /* Change 'red' to the color you desire */
+    font-weight:bolder;
+    font-size: larger;
+    
+  }
+
+  .custom-font{
+    font-family: 'Your Custom Font', Anton;
+
+  }
+
+  .custom-form {
+    background-color: lightgray;
+    opacity: 0.8; 
+
+  }
+
+  .Home-custom-background1{
+    background-image: url('../assets/image4.jpg'); /* Replace with the path to your image */
+    background-size: cover; /* Adjust to your needs */
+    background-position: center; /* Adjust to your needs */
+    /* Other background properties can be added here */
+    height: 650px;
+    display:flexbox;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position:center;
+    filter: brightness(0.9);
+  }
+

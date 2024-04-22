@@ -1,0 +1,106 @@
+
+.Home-custom-backgroundAV{
+    background-image: url('../assets/viewdoner.jpg'); /* Replace with the path to your image */
+    background-size: cover; /* Adjust to your needs */
+    background-position: center; /* Adjust to your needs */
+    /* Other background properties can be added here */
+    height: 740px;
+    display:flexbox;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position:center;
+    filter: brightness(0.9);
+    
+  }
+
+  .custom-labelA {
+    color: rgb(248, 7, 7); /* Change 'red' to the color you desire */
+    font-weight:bolder;
+    font-size:xx-large;
+    
+  }
+
+  .custom-fontA{
+    font-family: 'Your Custom Font', Anton;
+
+  }
+
+  .custom-formA{
+    background-color: lightgray;
+    opacity: 0.8; 
+
+  }
+
+
+  .custom-labelA2 {
+    
+    font-weight:bolder;
+    font-size:large;
+    
+  }
+
+
+  
+.Home-custom-backgroundAE{
+    background-image: url('../assets/Editview.jpg'); /* Replace with the path to your image */
+    background-size: cover; /* Adjust to your needs */
+    background-position: center; /* Adjust to your needs */
+    /* Other background properties can be added here */
+    height: 1250px;
+    display:flexbox;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position:center;
+    filter: brightness(1);
+    
+  }
+
+  .custom-labelAE {
+    color: rgb(14, 5, 46); /* Change 'red' to the color you desire */
+    font-weight:bolder;
+    font-size:xx-large;
+    
+  }
+
+  .custom-fontAE{
+    font-family: 'Your Custom Font', Anton;
+
+  }
+
+  .custom-formAE{
+    background-color: rgb(136, 136, 144);
+    opacity: 0.8; 
+
+  }
+
+
+  .custom-labelA2E{
+    
+    font-weight:bolder;
+    font-size:large;
+    color:rgb(2, 1, 6);
+    
+  }
+
+
+  .Home-custom-backgroundAEA{
+    background-image: url('../assets/Adddoner.jpg'); /* Replace with the path to your image */
+    background-size: cover; /* Adjust to your needs */
+    background-position: center; /* Adjust to your needs */
+    /* Other background properties can be added here */
+    height: 1250px;
+    display:flexbox;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position:center;
+    filter: brightness(1);
+    
+  }
+
+  /*--------------------------------*/
+
+
+
+
+
+
